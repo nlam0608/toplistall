@@ -1,0 +1,23 @@
+
+
+img {
+    max-width: 100%;
+    height: auto;
+    max-height: 200px;
+}
+
+
+.holder {
+    height: 300px;
+    width: 300px;
+    border: 2px solid black;
+}
+.imgPreview {
+    max-width: 300px;
+    max-height: 300px;
+    min-width: 300px;
+    min-height: 300px;
+}
+#photo[type="file"] {
+    margin-top: 5px;
+}
